@@ -12,7 +12,7 @@ The Knight's Tour is a classic problem in the field of chess puzzles. The task i
 
 The backtracking algorithm is a brute-force approach that systematically explores all possible moves of the knight until a solution is found. It employs recursion to try different moves and backtracks when it reaches a dead-end.
 
-- **File:** [main.py]([main.py](https://github.com/Beltag-Paula/The-Knight-Tour-Problem/blob/main/The%20Knight%20Problem/main.py))
+- **File:** [main.py](https://github.com/Beltag-Paula/The-Knight-Tour-Problem/blob/main/The%20Knight%20Problem/main.py)
 - **Description:** This file contains the implementation of the Knight's Tour problem using the backtracking algorithm.
 - **Functionality:** It initializes the chessboard, implements the backtracking algorithm to find the knight's tour, and prints the resulting tour on the console.
 - **Visualization:** The file [visualizeRoute.py](visualizeRoute.py) provides a graphical representation of the backtracking algorithm's execution, allowing users to visually track the knight's movements.
