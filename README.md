@@ -15,16 +15,16 @@ The backtracking algorithm is a brute-force approach that systematically explore
 - **File:** [main.py](https://github.com/Beltag-Paula/The-Knight-Tour-Problem/blob/main/The%20Knight%20Problem/main.py)
 - **Description:** This file contains the implementation of the Knight's Tour problem using the backtracking algorithm.
 - **Functionality:** It initializes the chessboard, implements the backtracking algorithm to find the knight's tour, and prints the resulting tour on the console.
-- **Visualization:** The file [visualizeRoute.py](visualizeRoute.py) provides a graphical representation of the backtracking algorithm's execution, allowing users to visually track the knight's movements.
+- **Visualization:** The file [visualizeRoute.py]((https://github.com/Beltag-Paula/The-Knight-Tour-Problem/blob/main/The%20Knight%20Problem/visualizeRoute.py)) provides a graphical representation of the backtracking algorithm's execution, allowing users to visually track the knight's movements.
 
 ### Warnsdorff's Algorithm
 
 Warnsdorff's algorithm is an improvement over the backtracking approach, utilizing a heuristic to prioritize moves that lead to squares with fewer available moves. This heuristic helps in reducing the search space and finding solutions more efficiently.
 
-- **File:** [main2Warnsdorff.py](main2Warnsdorff.py)
+- **File:** [main2Warnsdorff.py](https://github.com/Beltag-Paula/The-Knight-Tour-Problem/blob/main/The%20Knight%20Problem/main2Warnsdorff.py)
 - **Description:** This file contains the implementation of the Knight's Tour problem using Warnsdorff's algorithm.
 - **Functionality:** It initializes the chessboard, implements Warnsdorff's algorithm to find the knight's tour, and prints the resulting tour on the console.
-- **Visualization:** The file [visualizeRoute2.py](visualizeRoute2.py) provides a graphical representation of Warnsdorff's algorithm, enabling users to visualize the heuristic-based movement of the knight.
+- **Visualization:** The file [visualizeRoute2.py](https://github.com/Beltag-Paula/The-Knight-Tour-Problem/blob/main/The%20Knight%20Problem/visualizeRoute2.py) provides a graphical representation of Warnsdorff's algorithm, enabling users to visualize the heuristic-based movement of the knight.
 
 ## File Descriptions
 
